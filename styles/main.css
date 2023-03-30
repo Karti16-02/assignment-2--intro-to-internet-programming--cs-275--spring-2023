@@ -24,7 +24,7 @@ h1 {
   visibility: hidden;
   left: 590px;
   position: absolute;
-  z-index: 2;
+  z-index: 0;
 }
 
 .carousel {
